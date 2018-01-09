@@ -1,0 +1,1 @@
+D:\install\Continuum\anaconda3\envs\pytorch\Scripts\jupyter-notebook newsreader.ipynb
