@@ -1,0 +1,1 @@
+D:\install\Continuum\anaconda3\Scripts\jupyter-notebook 
